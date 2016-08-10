@@ -1,0 +1,737 @@
+Player id,Player,Position,Number,Club,Age,Country,Captain
+336722,Alan PULIDO,Forward,11,Tigres UANL,23,Mexico,TRUE
+368902,Adam TAGGART,Forward,9,Newcastle United Jets FC,21,Australia,TRUE
+362641,Reza GHOOCHANNEJAD,Forward,16,Charlton Athletic FC,26,Iran,FALSE
+314197,NEYMAR,Forward,10,FC Barcelona,22,Brazil,FALSE
+212306,Didier DROGBA,Forward,11,Galatasaray SK,36,Ivory Coast,FALSE
+229884,David VILLA,Forward,7,Atletico Madrid,32,Spain,TRUE
+305372,Abel HERNANDEZ,Forward,8,US Citta di Palermo,23,Uruguay,FALSE
+228599,Javier HERNANDEZ,Forward,14,Manchester United FC,26,Mexico,FALSE
+300409,Edin DZEKO,Forward,11,Manchester City FC,28,Bosnia & Herzegovina,FALSE
+184615,Klaas Jan HUNTELAAR,Forward,19,FC Schalke 04,30,Netherlands,FALSE
+271550,Gonzalo HIGUAIN,Forward,9,SSC Napoli,26,Argentina,FALSE
+227851,Oribe PERALTA,Forward,19,Club Santos Laguna,30,Mexico,TRUE
+354859,Islam SLIMANI,Forward,13,Sporting CP,26,Algeria,FALSE
+182206,Miroslav KLOSE,Forward,11,SS Lazio,36,Germany,FALSE
+217315,Robin VAN PERSIE,Forward,9,Manchester United FC,30,Netherlands,FALSE
+286278,Shinji OKAZAKI,Forward,9,FSV Mainz 05,28,Japan,FALSE
+270775,Luis SUAREZ,Forward,9,Liverpool FC,27,Uruguay,FALSE
+233952,FRED,Forward,9,Fluminense FC,30,Brazil,TRUE
+312316,Eric CHOUPO MOTING,Forward,13,FSV Mainz 05,25,Cameroon,FALSE
+356411,Fabian SCHAER,Defender,22,FC Basel,22,Switzerland,TRUE
+338673,Uche NWOFOR,Forward,19,SC Heerenveen,22,Nigeria,FALSE
+373224,Rickie LAMBERT,Forward,18,Southampton FC,32,England,TRUE
+379894,Miiko ALBORNOZ,Defender,3,Malmo FF,23,Chile,FALSE
+208353,Asamoah GYAN,Forward,3,Al Ain FC,28,Ghana,FALSE
+296994,El Arabi SOUDANI,Forward,15,GNK Dinamo Zagreb,26,Algeria,FALSE
+339508,Chris WONDOLOWSKI,Forward,18,San Jose Earthquakes,31,USA,TRUE
+213001,Tim CAHILL,Forward,4,New York Red Bulls,34,Australia,FALSE
+214384,EDUARDO,Forward,22,Shakhtar Donetsk,31,Croatia,FALSE
+170667,Samuel ETOO,Forward,9,Chelsea FC,33,Cameroon,FALSE
+271414,Carlo COSTLY,Forward,13,Real Espana,31,Honduras,TRUE
+275096,Yoichiro KAKITANI,Forward,11,Cerezo Osaka,24,Japan,TRUE
+270301,Eduardo VARGAS,Forward,11,Valencia CF,24,Chile,FALSE
+201200,CRISTIANO RONALDO,Forward,7,Real Madrid CF,29,Portugal,FALSE
+323623,Jerry BENGTSON,Forward,11,New England Revolution,27,Honduras,FALSE
+229397,Lionel MESSI,Forward,10,FC Barcelona,26,Argentina,FALSE
+235097,Mubarak WAKASO,Midfielder,22,FC Rubin Kazan,23,Ghana,FALSE
+356399,Josip DRMIC,Forward,19,1. FC Nuernberg,21,Switzerland,FALSE
+196842,Wayne ROONEY,Forward,10,Manchester United FC,28,England,TRUE
+228528,Sergio AGUERO,Forward,20,Manchester City FC,26,Argentina,FALSE
+309716,Teofilo GUTIERREZ,Forward,9,CA River Plate,29,Columbia,FALSE
+301059,Mario BALOTELLI,Forward,9,AC Milan,23,Italy,TRUE
+364763,Emmanuel EMENIKE,Forward,9,Fenerbahce SK,27,Nigeria,FALSE
+196789,Lukas PODOLSKI,Forward,10,Arsenal FC,29,Germany,FALSE
+187203,HELDER POSTIGA,Forward,23,SS Lazio,31,Portugal,FALSE
+367261,Nabil GHILAS,Forward,9,FC Porto,24,Algeria,FALSE
+207761,PARK Chuyoung,Forward,10,Watford FC,28,South Korea,FALSE
+306548,Andre SCHUERRLE,Forward,9,Chelsea FC,23,Germany,FALSE
+275136,Yuya OSAKO,Forward,18,TSV 1860 Muenchen,24,Japan,FALSE
+300411,Vedad IBISEVIC,Forward,9,VfB Stuttgart,29,Bosnia & Herzegovina,FALSE
+233500,Keisuke HONDA,Forward,4,AC Milan,28,Japan,FALSE
+274034,Danny WELBECK,Forward,11,Manchester United FC,23,England,TRUE
+306532,Daniel STURRIDGE,Forward,9,Liverpool FC,24,England,TRUE
+319470,Mario GAVRANOVIC,Forward,17,FC Zuerich,24,Switzerland,TRUE
+318601,Pedro RODRIGUEZ,Forward,11,FC Barcelona,26,Spain,TRUE
+319311,Marco FABIAN,Midfielder,8,Cruz Azul FC,24,Mexico,TRUE
+321722,Thomas MUELLER,Forward,13,FC Bayern Muenchen,24,Germany,TRUE
+214135,Pierre WEBO,Forward,15,Fenerbahce SK,32,Cameroon,FALSE
+352394,Marco REUS,Forward,21,Borussia Dortmund,25,Germany,TRUE
+207851,Clint DEMPSEY,Forward,8,Seattle Sounders FC,31,USA,TRUE
+353118,Wilfried BONY,Forward,12,Swansea City AFC,25,Ivory Coast,FALSE
+230517,Theofanis GEKAS,Forward,17,Konyaspor,34,Greece,FALSE
+183864,Fernando TORRES,Forward,9,Chelsea FC,30,Spain,FALSE
+216970,Salomon KALOU,Forward,8,Lille OSC,28,Ivory Coast,FALSE
+228627,Alexis SANCHEZ,Forward,7,FC Barcelona,25,Chile,FALSE
+291393,KOO Jacheol,Forward,13,FSV Mainz 05,25,South Korea,FALSE
+298681,Jeremain LENS,Forward,17,FC Dynamo Kyiv,26,Netherlands,FALSE
+229506,Cristhian STUANI,Forward,11,RCD Espanyol,27,Uruguay,FALSE
+373400,Enner VALENCIA,Forward,13,CF Pachuca,24,Ecuador,FALSE
+186455,Shola AMEOBI,Forward,23,Newcastle United FC,32,Nigeria,FALSE
+218306,WILLIAN,Midfielder,19,Chelsea FC,25,Brazil,FALSE
+358891,Oleg SHATOV,Midfielder,17,FC Zenit St. Petersburg,23,Russia,TRUE
+306900,Okechukwu UCHEBO,Forward,20,Cercle Brugge,24,Nigeria,FALSE
+336435,Antoine GRIEZMANN,Forward,11,Real Sociedad,23,France,FALSE
+189259,Diego FORLAN,Forward,10,Cerezo Osaka,35,Uruguay,FALSE
+267834,Edinson CAVANI,Forward,21,Paris Saint-Germain FC,27,Uruguay,FALSE
+268596,Shinji KAGAWA,Forward,10,Manchester United FC,25,Japan,FALSE
+214410,HUGO ALMEIDA,Forward,9,Besiktas JK,30,Portugal,FALSE
+305036,Mesut OEZIL,Midfielder,8,Arsenal FC,25,Germany,FALSE
+186808,Aleksandr KERZHAKOV,Forward,11,FC Zenit St. Petersburg,31,Russia,TRUE
+217172,JO,Forward,21,Atletico Mineiro,27,Brazil,TRUE
+358112,Romelu LUKAKU,Forward,9,Everton FC,21,Belgium,FALSE
+216071,Zvjezdan MISIMOVIC,Midfielder,10,Guizhou Renhe FC,32,Bosnia & Herzegovina,FALSE
+196812,Ashkan DEJAGAH,Forward,21,Fulham FC,27,Iran,FALSE
+228715,Felipe CAICEDO,Forward,11,Al Jazira SCC,25,Ecuador,FALSE
+270144,Marcos URENA,Forward,21,Kuban Krasnodar,24,Costa Rica,FALSE
+349572,Jaimen AYOVI,Forward,17,Club Tijuana,26,Ecuador,FALSE
+312868,OSCAR,Midfielder,11,Chelsea FC,22,Brazil,FALSE
+349512,Carlos BACCA,Forward,17,Sevilla FC,27,Columbia,FALSE
+366573,Saphir TAIDER,Midfielder,19,FC Internazionale,22,Algeria,FALSE
+184616,Arjen ROBBEN,Forward,11,FC Bayern Muenchen,30,Netherlands,FALSE
+313832,Jackson MARTINEZ,Forward,21,FC Porto,27,Columbia,FALSE
+330689,JI Dongwon,Midfielder,19,FC Augsburg,23,South Korea,FALSE
+238072,Jozy ALTIDORE,Forward,17,Sunderland AFC,24,USA,FALSE
+313874,Esteban PAREDES,Forward,22,CSD Colo-Colo,33,Chile,TRUE
+297383,Roman SHIROKOV,Midfielder,15,FC Krasnodar,32,Russia,TRUE
+297103,Karim BENZEMA,Forward,10,Real Madrid CF,26,France,FALSE
+297839,Konan YA,Midfielder,13,Hannover 96,30,Ivory Coast,FALSE
+268149,LEE Keunho,Forward,11,Sangju Sangmu FC,29,South Korea,TRUE
+274090,Victor MOSES,Forward,11,Liverpool FC,23,Nigeria,FALSE
+184291,Maxi RODRIGUEZ,Midfielder,11,CA Newells Old Boys,33,Argentina,TRUE
+185385,Frank LAMPARD,Midfielder,8,Chelsea FC,36,England,TRUE
+307529,Joel CAMPBELL,Forward,9,Olympiacos Piraeus FC,21,Costa Rica,FALSE
+177927,Antonio CASSANO,Forward,10,Parma FC,31,Italy,TRUE
+319358,Sofiane FEGHOULI,Forward,10,Valencia CF,24,Algeria,FALSE
+267811,Juan MATA,Forward,13,Manchester United FC,26,Spain,FALSE
+321653,Xherdan SHAQIRI,Midfielder,23,FC Bayern Muenchen,22,Switzerland,FALSE
+185641,Javad NEKOUNAM,Midfielder,6,Kuwait SC,33,Iran,FALSE
+215002,Wesley SNEIJDER,Midfielder,10,Galatasaray SK,30,Netherlands,FALSE
+375518,Mario MANDZUKIC,Forward,17,FC Bayern Muenchen,28,Croatia,FALSE
+318172,HULK,Forward,7,FC Zenit St. Petersburg,27,Brazil,FALSE
+183000,Sulley MUNTARI,Midfielder,11,AC Milan,29,Ghana,FALSE
+318768,Konstantinos MITROGLOU,Forward,9,Fulham FC,26,Greece,FALSE
+200176,David SILVA,Midfielder,21,Manchester City FC,28,Spain,FALSE
+290186,GERVINHO,Forward,10,AS Roma,27,Ivory Coast,FALSE
+302539,Alan DZAGOEV,Midfielder,10,CSKA Moscow,24,Russia,TRUE
+309316,Mario GOETZE,Forward,19,FC Bayern Muenchen,22,Germany,TRUE
+307849,SON Heungmin,Midfielder,9,Bayer 04 Leverkusen,21,South Korea,FALSE
+367393,Majeed WARIS,Forward,18,Valenciennes FC,22,Ghana,FALSE
+375459,Fidel MARTINEZ,Midfielder,20,Club Tijuana,24,Ecuador,FALSE
+367347,Aron JOHANNSSON,Forward,9,AZ Alkmaar,23,USA,FALSE
+356403,Izet HAJROVIC,Midfielder,20,Galatasaray SK,22,Bosnia & Herzegovina,FALSE
+275112,Manabu SAITO,Forward,20,Yokohama F-Marinos,24,Japan,TRUE
+319438,Georginio WIJNALDUM,Midfielder,20,PSV Eindhoven,23,Netherlands,TRUE
+359235,Lorenzo INSIGNE,Forward,22,SSC Napoli,23,Italy,TRUE
+379972,Acquah AFRIYIE,Midfielder,6,Parma FC,22,Ghana,FALSE
+369058,Ante REBIC,Forward,16,ACF Fiorentina,20,Croatia,FALSE
+217313,Dirk KUYT,Forward,15,Fenerbahce SK,33,Netherlands,FALSE
+358015,Olivier GIROUD,Forward,9,Arsenal FC,27,France,FALSE
+358048,Alexander KOKORIN,Forward,9,FC Dynamo Moscow,23,Russia,TRUE
+196752,Bastian SCHWEINSTEIGER,Midfielder,7,FC Bayern Muenchen,29,Germany,TRUE
+358120,Kevin DE BRUYNE,Midfielder,7,VfL Wolfsburg,22,Belgium,FALSE
+330659,Karim ANSARI FARD,Forward,10,Tractor Sazi Tabriz FC,24,Iran,TRUE
+300235,Victor FAYZULIN,Midfielder,20,FC Zenit St. Petersburg,28,Russia,TRUE
+213953,Jerry PALACIOS,Midfielder,9,LD Alajuelense,32,Honduras,FALSE
+356198,Alex OXLADE CHAMBERLAIN,Midfielder,15,Arsenal FC,20,England,TRUE
+236530,Celso BORGES,Midfielder,5,AIK Solna,26,Costa Rica,FALSE
+214876,Bryan RUIZ,Forward,10,PSV Eindhoven,28,Costa Rica,FALSE
+299878,Loic REMY,Forward,20,Newcastle United FC,27,France,FALSE
+234551,Giovani DOS SANTOS,Forward,10,Villarreal CF,25,Mexico,FALSE
+237058,Randall BRENES,Forward,14,CSD Cartagines,30,Costa Rica,TRUE
+290452,Jefferson MONTERO,Midfielder,7,CA Monarcas Morelia,24,Ecuador,FALSE
+290903,Kevin MIRALLAS,Forward,11,Everton FC,26,Belgium,FALSE
+266800,Angel DI MARIA,Midfielder,7,Real Madrid CF,26,Argentina,FALSE
+362727,PAULINHO,Midfielder,8,Tottenham Hotspur FC,25,Brazil,FALSE
+306954,Jordi ALBA,Defender,18,FC Barcelona,25,Spain,TRUE
+367388,Paul POGBA,Midfielder,19,Juventus FC,21,France,FALSE
+359217,Marco VERRATTI,Midfielder,23,Paris Saint-Germain FC,21,Italy,FALSE
+379886,Alireza JAHAN BAKHSH,Forward,9,NEC Nijmegen,20,Iran,FALSE
+187258,Ivica OLIC,Forward,18,VfL Wolfsburg,34,Croatia,FALSE
+248373,Franck RIBERY,Forward,7,FC Bayern Muenchen,31,France,FALSE
+198106,Yaya TOURE,Midfielder,19,Manchester City FC,31,Ivory Coast,FALSE
+254167,NANI,Forward,17,Manchester United FC,27,Portugal,FALSE
+214961,Steven GERRARD,Midfielder,4,Liverpool FC,34,England,TRUE
+269058,James RODRIGUEZ,Midfielder,10,AS Monaco,22,Columbia,FALSE
+210704,Darijo SRNA,Defender,11,Shakhtar Donetsk,32,Croatia,FALSE
+216435,Alexander SAMEDOV,Forward,19,FC Lokomotiv Moscow,29,Russia,TRUE
+254166,VARELA,Forward,18,FC Porto,29,Portugal,TRUE
+355997,Christian ATSU,Midfielder,7,Vitesse Arnheim,22,Ghana,FALSE
+178299,Mark BRESCIANO,Midfielder,23,Al Gharafa SC,34,Australia,FALSE
+297705,Santi CAZORLA,Midfielder,20,Arsenal FC,29,Spain,FALSE
+356731,Raul JIMENEZ,Forward,9,Club America,23,Mexico,TRUE
+215513,Dimitrios SALPINGIDIS,Forward,14,PAOK FC,32,Greece,TRUE
+214228,Peter ODEMWINGIE,Forward,8,Stoke City FC,32,Nigeria,FALSE
+299198,Miralem PJANIC,Midfielder,8,AS Roma,24,Bosnia & Herzegovina,FALSE
+358024,Ioannis FETFATZIDIS,Forward,18,Genoa CFC,23,Greece,FALSE
+367913,DANTE,Defender,13,FC Bayern Muenchen,30,Brazil,FALSE
+196897,Kevin Prince BOATENG,Forward,9,FC Schalke 04,27,Ghana,FALSE
+371044,Miguel LAYUN,Defender,7,Club America,25,Mexico,TRUE
+353235,Jordan AYEW,Forward,13,FC Sochaux-Montbliard,22,Ghana,FALSE
+208016,FERNANDINHO,Midfielder,5,Manchester City FC,29,Brazil,FALSE
+316997,Enzo PEREZ,Midfielder,8,SL Benfica,28,Argentina,FALSE
+356407,Michael LANG,Defender,6,Grasshopper Club,23,Switzerland,TRUE
+178842,Edison MENDEZ,Midfielder,8,Independiente Santa Fe,35,Ecuador,FALSE
+290902,Marouane FELLAINI,Midfielder,8,Manchester United FC,26,Belgium,FALSE
+201787,Mauricio PINILLA,Forward,9,Cagliari Calcio,30,Chile,FALSE
+209119,Daniele DE ROSSI,Midfielder,16,AS Roma,30,Italy,TRUE
+175524,Michael ESSIEN,Midfielder,5,AC Milan,31,Ghana,FALSE
+312672,Mix DISKERUD,Midfielder,10,Rosenborg BK,23,USA,FALSE
+316117,Nikica JELAVIC,Forward,9,Hull City FC,28,Croatia,FALSE
+311558,Granit XHAKA,Midfielder,10,Borussia Moenchengladbach,21,Switzerland,FALSE
+217117,Carlos VALDES,Defender,23,CA San Lorenzo de Almagro,29,Columbia,FALSE
+297106,Mathieu VALBUENA,Midfielder,8,Olympique Marseille,29,France,TRUE
+267543,Arturo VIDAL,Midfielder,8,Juventus FC,27,Chile,FALSE
+358108,Nacer CHADLI,Midfielder,22,Tottenham Hotspur FC,24,Belgium,FALSE
+274946,Emmanuel AGYEMANG BADU,Midfielder,8,Udinese Calcio,23,Ghana,FALSE
+175498,DaMarcus BEASLEY,Defender,7,Puebla FC,32,USA,FALSE
+200179,Cesc FABREGAS,Midfielder,10,FC Barcelona,27,Spain,TRUE
+296633,Ivan RAKITIC,Midfielder,7,Sevilla FC,26,Croatia,FALSE
+212410,KWAK Taehwi,Defender,4,Al Hilal FC,32,South Korea,FALSE
+215623,Alberto AQUILANI,Midfielder,14,ACF Fiorentina,29,Italy,TRUE
+233531,Michael BRADLEY,Midfielder,4,Toronto FC,26,USA,FALSE
+233167,Haris MEDUNJANIN,Midfielder,18,Gaziantepspor,29,Bosnia & Herzegovina,FALSE
+207906,JUANFRAN,Defender,5,Atletico Madrid,29,Spain,TRUE
+298892,Augusto FERNANDEZ,Midfielder,13,Celta Vigo,28,Argentina,FALSE
+354875,Abdelmoumene DJABOU,Forward,18,Club Africain,27,Algeria,FALSE
+372989,Ermin BICAKCIC,Defender,3,Eintracht Braunschweig,24,Bosnia & Herzegovina,FALSE
+321697,Mathew LECKIE,Forward,7,FSV Frankfurt,23,Australia,FALSE
+367396,Fabrice OLINGA,Forward,19,SV Zulte Waregem,18,Cameroon,FALSE
+251352,Andres GUARDADO,Defender,18,Bayer 04 Leverkusen,27,Mexico,FALSE
+229392,Ezequiel LAVEZZI,Forward,22,Paris Saint-Germain FC,29,Argentina,FALSE
+207528,Xabi ALONSO,Midfielder,14,Real Madrid CF,32,Spain,TRUE
+210214,RAUL MEIRELES,Midfielder,16,Fenerbahce SK,31,Portugal,FALSE
+360728,Graham ZUSI,Midfielder,19,Sporting Kansas City,27,USA,TRUE
+209979,Tranquillo BARNETTA,Midfielder,7,Eintracht Frankfurt,29,Switzerland,FALSE
+344714,Ahmed MUSA,Forward,7,CSKA Moscow,21,Nigeria,FALSE
+273996,Eden HAZARD,Midfielder,10,Chelsea FC,23,Belgium,FALSE
+218284,MARCELO,Defender,6,Real Madrid CF,26,Brazil,FALSE
+358736,Bruno MARTINS INDI,Defender,4,Feyenoord Rotterdam,22,Netherlands,TRUE
+305764,Gary CAHILL,Defender,5,Chelsea FC,28,England,TRUE
+210213,BRUNO ALVES,Defender,2,Fenerbahce SK,32,Portugal,FALSE
+375523,Daniel VAN BUYTEN,Defender,15,FC Bayern Muenchen,36,Belgium,FALSE
+178119,Rafael MARQUEZ,Defender,4,Club Leon,35,Mexico,TRUE
+183857,Andres INIESTA,Midfielder,6,FC Barcelona,30,Spain,TRUE
+297331,Valentin STOCKER,Midfielder,14,FC Basel,25,Switzerland,TRUE
+349592,Eugenio MENA,Defender,2,Santos FC,25,Chile,FALSE
+296118,Benjamin MOUKANDJO,Forward,8,AS Nancy,25,Cameroon,FALSE
+349517,Victor IBARBO,Forward,14,Cagliari Calcio,24,Columbia,FALSE
+177876,Andrea PIRLO,Midfielder,21,Juventus FC,35,Italy,TRUE
+353119,Max GRADEL,Midfielder,15,AS Saint-Etienne,26,Ivory Coast,FALSE
+275162,Toni KROOS,Midfielder,18,FC Bayern Muenchen,24,Germany,TRUE
+358049,Denis GLUSHAKOV,Midfielder,8,FC Spartak Moscow,27,Russia,TRUE
+305378,Nicolas LODEIRO,Midfielder,14,Botafogo FR,25,Uruguay,FALSE
+202544,Antonio VALENCIA,Midfielder,16,Manchester United FC,28,Ecuador,FALSE
+184545,Segundo CASTILLO,Midfielder,14,Al Hilal FC,32,Ecuador,FALSE
+216567,Cristian RODRIGUEZ,Midfielder,7,Atletico Madrid,28,Uruguay,FALSE
+268414,LEE Chungyong,Midfielder,17,Bolton Wanderers FC,25,South Korea,FALSE
+289195,Paul AGUILAR,Defender,22,Club America,28,Mexico,TRUE
+321745,KIM Shinwook,Forward,18,Ulsan Hyundai FC,26,South Korea,TRUE
+309714,Juan CUADRADO,Midfielder,11,ACF Fiorentina,26,Columbia,FALSE
+291389,KIM Bokyung,Midfielder,7,Cardiff City FC,24,South Korea,FALSE
+274135,Mamadou SAKHO,Defender,5,Liverpool FC,24,France,FALSE
+295153,Ahmad ALNAMEH,Defender,17,Naft Tehran FC,31,Iran,TRUE
+268594,Masato MORISHIGE,Defender,6,FC Tokyo,27,Japan,TRUE
+369990,Rony MARTINEZ,Forward,16,CD Real Sociedad,26,Honduras,TRUE
+336837,Diego CALVO,Midfielder,20,Valerenga IF,23,Costa Rica,FALSE
+297112,Georgios SAMARAS,Forward,7,Celtic FC,29,Greece,FALSE
+241559,Luka MODRIC,Midfielder,10,Real Madrid CF,28,Croatia,FALSE
+228336,Vasileios TOROSIDIS,Defender,15,AS Roma,29,Greece,FALSE
+229502,Alvaro PEREIRA,Midfielder,6,Sao Paulo FC,28,Uruguay,FALSE
+359381,Ivan PERISIC,Midfielder,4,VfL Wolfsburg,25,Croatia,FALSE
+349574,Michael ARROYO,Midfielder,15,Atlante FC,27,Ecuador,FALSE
+198243,Abel AGUILAR,Midfielder,8,Toulouse FC,29,Columbia,FALSE
+290821,Axel WITSEL,Midfielder,6,FC Zenit St. Petersburg,25,Belgium,FALSE
+237949,Andranik TIMOTIAN,Midfielder,14,Esteghlal Tehran FC,31,Iran,TRUE
+298582,John BOYE,Defender,21,Stade Rennais FC,27,Ghana,FALSE
+213170,Masoud SHOJAEI,Forward,7,UD Las Palmas,30,Iran,FALSE
+358011,Mathieu DEBUCHY,Defender,2,Newcastle United FC,28,France,FALSE
+318150,Charles ARANGUIZ,Midfielder,20,SC Internacional,25,Chile,FALSE
+290605,James TROISI,Midfielder,14,Melbourne Victory FC,25,Australia,TRUE
+356669,BERNARD,Forward,20,Shakhtar Donetsk,21,Brazil,FALSE
+181406,MAICON,Defender,23,AS Roma,32,Brazil,FALSE
+227839,Marvin CHAVEZ,Midfielder,10,CD Chivas USA,30,Honduras,FALSE
+304934,Roger ESPINOZA,Midfielder,15,Wigan Athletic FC,27,Honduras,FALSE
+239433,Diego LUGANO,Defender,2,West Bromwich Albion FC,33,Uruguay,FALSE
+300407,Sejad SALIHOVIC,Midfielder,23,TSG 1899 Hoffenheim,29,Bosnia & Herzegovina,FALSE
+298959,RAMIRES,Midfielder,16,Chelsea FC,27,Brazil,FALSE
+230739,Rodrigo PALACIO,Forward,18,FC Internazionale,32,Argentina,FALSE
+209989,Philippe SENDEROS,Defender,4,Valencia CF,29,Switzerland,FALSE
+197514,Mile JEDINAK,Midfielder,15,Crystal Palace FC,29,Australia,FALSE
+177855,Xavi HERNANDEZ,Midfielder,8,FC Barcelona,34,Spain,TRUE
+300402,Senijad IBRICIC,Midfielder,17,Kayseri Erciyesspor,28,Bosnia & Herzegovina,FALSE
+290800,Dario VIDOSIC,Midfielder,20,FC Sion,27,Australia,FALSE
+365464,Juan MONTES,Defender,4,CD Motagua,28,Honduras,TRUE
+311554,Haris SEFEROVIC,Forward,9,Real Sociedad,22,Switzerland,FALSE
+358692,Julian DRAXLER,Midfielder,14,FC Schalke 04,20,Germany,TRUE
+184447,Walter AYOVI,Midfielder,10,CF Pachuca,34,Ecuador,FALSE
+180936,Yoshito OKUBO,Forward,13,Kawasaki Frontale,32,Japan,TRUE
+290825,Moussa DEMBELE,Midfielder,19,Tottenham Hotspur FC,26,Belgium,FALSE
+196900,Sami KHEDIRA,Midfielder,6,Real Madrid CF,27,Germany,FALSE
+268406,KI Sungyueng,Midfielder,16,Sunderland AFC,25,South Korea,FALSE
+294620,Andre AYEW,Midfielder,10,Olympique Marseille,24,Ghana,FALSE
+177768,Yasuhito ENDO,Midfielder,7,Gamba Osaka,34,Japan,TRUE
+218253,Carlos SALCIDO,Defender,3,Tigres UANL,34,Mexico,TRUE
+209502,Jean BEAUSEJOUR,Midfielder,15,Wigan Athletic FC,30,Chile,FALSE
+267527,Gary MEDEL,Defender,17,Cardiff City FC,26,Chile,FALSE
+296297,Mario MARTINEZ,Midfielder,23,Real Espana,24,Honduras,TRUE
+183882,Hassan YEBDA,Midfielder,7,Udinese Calcio,30,Algeria,FALSE
+239424,HERNANES,Midfielder,18,FC Internazionale,29,Brazil,FALSE
+358114,Dries MERTENS,Midfielder,14,SSC Napoli,27,Belgium,FALSE
+318034,Federico FERNANDEZ,Defender,17,SSC Napoli,25,Argentina,FALSE
+312432,Dejan LOVREN,Defender,6,Southampton FC,24,Croatia,FALSE
+323698,Vincent ABOUBAKAR,Forward,10,FC Lorient,22,Cameroon,FALSE
+261029,Gokhan INLER,Midfielder,8,SSC Napoli,29,Switzerland,FALSE
+214887,Konstantinos KATSOURANIS,Midfielder,21,PAOK FC,35,Greece,TRUE
+190962,DANI ALVES,Defender,2,FC Barcelona,31,Brazil,FALSE
+271182,Michael BARRANTES,Midfielder,11,Aalesunds FK,30,Costa Rica,FALSE
+299960,Phil JAGIELKA,Defender,6,Everton FC,31,England,TRUE
+200847,Adrian RAMOS,Forward,19,Hertha BSC,28,Columbia,FALSE
+281252,Fabian ORELLANA,Forward,14,Celta Vigo,28,Chile,FALSE
+196605,Stephan LICHTSTEINER,Defender,2,Juventus FC,30,Switzerland,FALSE
+216814,Sergio RAMOS,Defender,15,Real Madrid CF,28,Spain,TRUE
+216874,Nicolas LOMBAERTS,Defender,18,FC Zenit St. Petersburg,29,Belgium,FALSE
+356162,Esseid BELKALEM,Defender,4,Watford FC,25,Algeria,FALSE
+168832,Georgios KARAGOUNIS,Midfielder,10,Fulham FC,37,Greece,FALSE
+199600,Jean MAKOUN,Midfielder,11,Stade Rennais FC,31,Cameroon,FALSE
+178403,Joseph YOBO,Defender,2,Norwich City FC,33,Nigeria,FALSE
+297377,Ognjen VUKOJEVIC,Midfielder,8,FC Dynamo Kyiv,30,Croatia,FALSE
+278072,Jalal HOSSEINI,Defender,4,Perspolis FC,32,Iran,TRUE
+202655,Jorge VALDIVIA,Midfielder,10,Palmeiras,30,Chile,FALSE
+290904,Jan VERTONGHEN,Defender,5,Tottenham Hotspur FC,27,Belgium,FALSE
+197411,Mark MILLIGAN,Midfielder,5,Melbourne Victory FC,28,Australia,TRUE
+213124,Amirhossein SADEGHI,Defender,5,Esteghlal Tehran FC,32,Iran,TRUE
+364707,Albert ADOMAH,Midfielder,14,Middlesbrough FC,26,Ghana,FALSE
+303394,Carlos PENA,Midfielder,21,Club Leon,24,Mexico,TRUE
+306424,Tommy OAR,Midfielder,11,FC Utrecht,22,Australia,FALSE
+269784,FABIO COENTRAO,Defender,5,Real Madrid CF,26,Portugal,FALSE
+234463,John Obi MIKEL,Midfielder,10,Chelsea FC,27,Nigeria,FALSE
+358013,Yohan CABAYE,Midfielder,6,Paris Saint-Germain FC,28,France,TRUE
+311150,Mats HUMMELS,Defender,5,Borussia Dortmund,25,Germany,TRUE
+305972,Joao ROJAS,Forward,9,Cruz Azul FC,25,Ecuador,FALSE
+216004,Vincent KOMPANY,Defender,4,Manchester City FC,28,Belgium,FALSE
+216973,Gerard PIQUE,Defender,3,FC Barcelona,27,Spain,TRUE
+215208,Madjid BOUGUERRA,Defender,2,Lekhwiya SC,31,Algeria,FALSE
+294619,Kwadwo ASAMOAH,Midfielder,20,Juventus FC,25,Ghana,FALSE
+200219,Fredy GUARIN,Midfielder,13,FC Internazionale,27,Columbia,FALSE
+3408,Mario YEPES,Defender,3,Atalanta Bergamo,38,Columbia,FALSE
+200935,Stephane MBIA,Midfielder,17,Sevilla FC,28,Cameroon,FALSE
+230114,Jorge CLAROS,Midfielder,20,CD Motagua,28,Honduras,TRUE
+215274,Giorgio CHIELLINI,Defender,3,Juventus FC,29,Italy,TRUE
+268821,Giancarlo GONZALEZ,Defender,3,Columbus Crew,26,Costa Rica,FALSE
+295157,Hashem BEIKZADEH,Midfielder,19,Esteghlal Tehran FC,30,Iran,TRUE
+349588,Felipe GUTIERREZ,Midfielder,16,FC Twente,23,Chile,FALSE
+330693,Andy NAJAR,Midfielder,17,RSC Anderlecht,21,Honduras,FALSE
+310048,Enoh EYONG,Midfielder,18,Antalyaspor AS,28,Cameroon,FALSE
+268822,Jose CUBERO,Midfielder,22,CS Herediano,27,Costa Rica,TRUE
+178963,Kolo TOURE,Defender,4,Liverpool FC,33,Ivory Coast,FALSE
+297373,Vedran CORLUKA,Defender,5,FC Lokomotiv Moscow,28,Croatia,FALSE
+321641,Leonardo BONUCCI,Defender,19,Juventus FC,27,Italy,TRUE
+210212,RICARDO COSTA,Defender,13,Valencia CF,33,Portugal,FALSE
+245156,Jose ROJAS,Defender,13,Club Universidad de Chile,30,Chile,TRUE
+299086,Lazaros CHRISTODOULOPOULOS,Midfielder,16,Bologna FC,27,Greece,FALSE
+367918,LUIZ GUSTAVO,Midfielder,17,VfL Wolfsburg,26,Brazil,FALSE
+233703,Martin DEMICHELIS,Defender,15,Manchester City FC,33,Argentina,FALSE
+209827,Wilson PALACIOS,Midfielder,8,Stoke City FC,29,Honduras,FALSE
+275931,PEPE,Defender,3,Real Madrid CF,31,Portugal,FALSE
+228936,Ignazio ABATE,Defender,7,AC Milan,27,Italy,TRUE
+186787,Sergey IGNASHEVICH,Defender,4,CSKA Moscow,34,Russia,TRUE
+200262,Landry NGUEMO,Midfielder,7,FC Girondins Bordeaux,28,Cameroon,FALSE
+271253,Maya YOSHIDA,Defender,22,Southampton FC,25,Japan,FALSE
+251481,Pejman MONTAZERI,Defender,15,Umm Salal SC,30,Iran,FALSE
+233530,Marcelo DIAZ,Midfielder,21,FC Basel,27,Chile,FALSE
+311148,Benedikt HOEWEDES,Defender,4,FC Schalke 04,26,Germany,TRUE
+375754,KIM Younggwon,Defender,5,Guangzhou Evergrande FC,24,South Korea,FALSE
+315429,Ogenyi ONAZI,Midfielder,17,SS Lazio,21,Nigeria,FALSE
+279417,Cristhian NOBOA,Midfielder,6,FC Dynamo Moscow,29,Ecuador,FALSE
+267647,Uwa ECHIEJILE,Defender,3,AS Monaco,26,Nigeria,FALSE
+196748,Philipp LAHM,Midfielder,16,FC Bayern Muenchen,30,Germany,TRUE
+207946,Souleymane BAMBA,Defender,22,Trabzonspor,29,Ivory Coast,FALSE
+286259,Alvaro GONZALEZ,Midfielder,20,SS Lazio,29,Uruguay,FALSE
+358022,Jose CHOLEVAS,Defender,20,Olympiacos Piraeus FC,29,Greece,TRUE
+313805,Heiner MORA,Defender,8,Deportivo Saprissa,29,Costa Rica,TRUE
+233497,Masahiko INOHA,Defender,19,Jubilo Iwata,28,Japan,TRUE
+311174,Fabian JOHNSON,Defender,23,TSG 1899 Hoffenheim,26,USA,FALSE
+356409,Admir MEHMEDI,Forward,18,SC Freiburg,23,Switzerland,FALSE
+183893,Jermaine JONES,Midfielder,13,Besiktas JK,32,USA,FALSE
+298664,Claudio MARCHISIO,Midfielder,8,Juventus FC,28,Italy,TRUE
+290824,Steven DEFOUR,Midfielder,16,FC Porto,26,Belgium,FALSE
+229439,Gonzalo JARA,Defender,18,Nottingham Forest FC,28,Chile,FALSE
+175689,THIAGO MOTTA,Midfielder,5,Paris Saint-Germain FC,31,Italy,FALSE
+300237,Dmitry KOMBAROV,Defender,23,FC Spartak Moscow,27,Russia,TRUE
+358014,Blaise MATUIDI,Midfielder,14,Paris Saint-Germain FC,27,France,TRUE
+299896,Domagoj VIDA,Defender,21,FC Dynamo Kyiv,25,Croatia,FALSE
+289964,THIAGO SILVA,Defender,3,Paris Saint-Germain FC,29,Brazil,FALSE
+291372,Yuto NAGATOMO,Defender,5,FC Internazionale,27,Japan,FALSE
+228617,Mauricio ISLA,Defender,4,Juventus FC,26,Chile,FALSE
+216715,Ron VLAAR,Defender,2,Aston Villa FC,29,Netherlands,FALSE
+305768,Leighton BAINES,Defender,3,Everton FC,29,England,TRUE
+229440,Jose FUENZALIDA,Midfielder,19,CSD Colo-Colo,29,Chile,TRUE
+339551,Brayan BECKELES,Defender,21,CD Olimpia,28,Honduras,TRUE
+200201,MIGUEL VELOSO,Midfielder,4,FC Dynamo Kyiv,28,Portugal,FALSE
+216650,Gelson FERNANDES,Midfielder,16,SC Freiburg,27,Switzerland,FALSE
+216627,Valon BEHRAMI,Midfielder,11,SSC Napoli,29,Switzerland,FALSE
+312679,HONG Jeongho,Defender,20,FC Augsburg,24,South Korea,FALSE
+207888,Per MERTESACKER,Defender,17,Arsenal FC,29,Germany,FALSE
+216069,Emir SPAHIC,Defender,4,Bayer 04 Leverkusen,33,Bosnia & Herzegovina,FALSE
+239237,Carl MEDJANI,Defender,12,Valenciennes FC,29,Algeria,FALSE
+216006,Anthony VANDEN BORRE,Defender,21,RSC Anderlecht,26,Belgium,TRUE
+307026,Cristian GAMBOA,Defender,16,Rosenborg BK,24,Costa Rica,FALSE
+347716,Hiroshi KIYOTAKE,Forward,8,1. FC Nuernberg,24,Japan,FALSE
+306634,Jonathan MENSAH,Defender,19,Evian TG FC,23,Ghana,FALSE
+213878,Victor BERNARDEZ,Defender,5,San Jose Earthquakes,32,Honduras,FALSE
+229499,Diego GODIN,Defender,3,Atletico Madrid,28,Uruguay,FALSE
+186793,Vasily BEREZUTSKIY,Defender,14,CSKA Moscow,32,Russia,TRUE
+339447,Johnny ACOSTA,Defender,2,LD Alajuelense,30,Costa Rica,TRUE
+321971,Geoff CAMERON,Defender,20,Stoke City FC,28,USA,FALSE
+296273,Alejandro BEDOYA,Midfielder,11,FC Nantes,27,USA,FALSE
+183796,Christian BOLANOS,Midfielder,7,FC Kobenhavn,30,Costa Rica,FALSE
+296827,Rafik HALLICHE,Defender,5,Academica Coimbra,27,Algeria,FALSE
+181930,Jorge GUAGUA,Defender,2,CS Emelec,32,Ecuador,TRUE
+288961,Ehsan HAJI SAFI,Midfielder,3,Sepahan FC,24,Iran,TRUE
+181698,Aldo RAMIREZ,Midfielder,5,CA Monarcas Morelia,33,Columbia,FALSE
+278732,Aurelien CHEDJOU,Defender,14,Galatasaray SK,28,Cameroon,FALSE
+286481,Maximiliano PEREIRA,Defender,16,SL Benfica,30,Uruguay,FALSE
+356711,Azubuike EGWUEKWE,Defender,6,Warri Wolves FC,24,Nigeria,TRUE
+200199,JOAO MOUTINHO,Midfielder,8,AS Monaco,27,Portugal,FALSE
+358099,Senad LULIC,Midfielder,16,SS Lazio,28,Bosnia & Herzegovina,FALSE
+213879,Maynor FIGUEROA,Defender,3,Hull City FC,31,Honduras,FALSE
+268474,Atsuto UCHIDA,Defender,2,FC Schalke 04,26,Japan,FALSE
+216646,Blerim DZEMAILI,Midfielder,15,SSC Napoli,28,Switzerland,FALSE
+290864,Toby ALDERWEIRELD,Defender,2,Atletico Madrid,25,Belgium,FALSE
+356459,Godfrey OBOABONA,Defender,14,Caykur Rizespor,23,Nigeria,FALSE
+216642,Reto ZIEGLER,Defender,3,US Sassuolo,28,Switzerland,FALSE
+296303,Juan Carlos GARCIA,Defender,6,Wigan Athletic FC,26,Honduras,FALSE
+175512,Kyle BECKERMAN,Midfielder,15,Real Salt Lake,32,USA,TRUE
+349578,Frickson ERAZO,Defender,3,CR Flamengo,26,Ecuador,FALSE
+273291,Efe AMBROSE,Defender,5,Celtic FC,25,Nigeria,FALSE
+289027,Makoto HASEBE,Midfielder,17,1. FC Nuernberg,30,Japan,FALSE
+291329,Ismael TIOTE,Midfielder,9,Newcastle United FC,27,Ivory Coast,FALSE
+216645,Johan DJOUROU,Defender,20,Hamburger SV,27,Switzerland,FALSE
+229436,Carlos CARMONA,Midfielder,6,Atalanta Bergamo,27,Chile,FALSE
+185359,Diego PEREZ,Midfielder,15,Bologna FC,34,Uruguay,FALSE
+237071,Boniek GARCIA,Midfielder,14,Houston Dynamo,29,Honduras,FALSE
+197409,Matt McKAY,Midfielder,17,Brisbane Roar FC,31,Australia,TRUE
+207924,James MILNER,Midfielder,17,Manchester City FC,28,England,TRUE
+238381,Samuel INKOOM,Defender,2,FC Platanias,25,Ghana,FALSE
+183798,Roy MILLER,Defender,19,New York Red Bulls,29,Costa Rica,FALSE
+182372,Javier MASCHERANO,Midfielder,14,FC Barcelona,30,Argentina,FALSE
+216880,Thomas VERMAELEN,Defender,3,Arsenal FC,28,Belgium,FALSE
+228351,Alexandros TZIOLIS,Midfielder,6,Kayserispor,29,Greece,FALSE
+229443,Juan ZUNIGA,Defender,18,SSC Napoli,28,Columbia,FALSE
+197464,Glen JOHNSON,Defender,2,Liverpool FC,29,England,TRUE
+200213,Pablo ARMERO,Defender,7,West Ham United FC,27,Columbia,FALSE
+238112,Hector MORENO,Defender,15,RCD Espanyol,26,Mexico,FALSE
+267829,Martin CACERES,Defender,22,Juventus FC,27,Uruguay,FALSE
+209940,Junior DIAZ,Defender,15,FSV Mainz 05,30,Costa Rica,FALSE
+276131,Walter GARGANO,Midfielder,5,Parma FC,29,Uruguay,FALSE
+230117,Emilio IZAGUIRRE,Midfielder,7,Celtic FC,28,Honduras,FALSE
+216964,Nigel DE JONG,Midfielder,6,AC Milan,29,Netherlands,FALSE
+198489,Arthur BOKA,Defender,3,VfB Stuttgart,31,Ivory Coast,FALSE
+184373,Yasuyuki KONNO,Defender,15,Gamba Osaka,31,Japan,TRUE
+208120,Michael UMANA,Defender,4,Deportivo Saprissa,31,Costa Rica,TRUE
+209960,Francisco RODRIGUEZ,Defender,2,Club America,32,Mexico,TRUE
+176971,Didier ZOKORA,Defender,5,Trabzonspor,33,Ivory Coast,FALSE
+94918,Faryd MONDRAGON,Goalkeeper,22,Deportivo Cali,43,Columbia,TRUE
+178185,Noel VALLADARES,Goalkeeper,18,CD Olimpia,37,Honduras,TRUE
+159304,Gianluigi BUFFON,Goalkeeper,1,Juventus FC,36,Italy,TRUE
+179048,Stipe PLETIKOSA,Goalkeeper,1,FC Rostov,35,Croatia,FALSE
+178420,Tim HOWARD,Goalkeeper,1,Everton FC,35,USA,FALSE
+182021,Mickael LANDREAU,Goalkeeper,23,SC Bastia,35,France,TRUE
+184982,Nick RIMANDO,Goalkeeper,22,Real Salt Lake,35,USA,TRUE
+178958,Boubacar BARRY,Goalkeeper,1,KSC Lokeren,34,Ivory Coast,FALSE
+179038,JULIO CESAR,Goalkeeper,12,Toronto FC,34,Brazil,FALSE
+367333,Sergey RYZHIKOV,Goalkeeper,16,FC Rubin Kazan,33,Russia,TRUE
+358097,Asmir AVDUKIC,Goalkeeper,22,FK Borac Banja Luka,33,Bosnia & Herzegovina,TRUE
+195223,Roman WEIDENFELLER,Goalkeeper,22,Borussia Dortmund,33,Germany,TRUE
+209168,Eugene GALEKOVIC,Goalkeeper,18,Adelaide United FC,33,Australia,TRUE
+214377,Andrea BARZAGLI,Defender,15,Juventus FC,33,Italy,TRUE
+176644,Iker CASILLAS,Goalkeeper,1,Real Madrid CF,33,Spain,TRUE
+215484,Loukas VYNTRA,Defender,11,Levante UD,33,Greece,FALSE
+178630,Johnny HERRERA,Goalkeeper,23,Club Universidad de Chile,33,Chile,TRUE
+298516,Rahman AHMADI,Goalkeeper,1,Sepahan FC,33,Iran,TRUE
+356612,Hugo CAMPAGNARO,Defender,3,FC Internazionale,33,Argentina,FALSE
+213871,Donis ESCOBER,Goalkeeper,22,CD Olimpia,33,Honduras,TRUE
+195231,Jose CORONA,Goalkeeper,1,Cruz Azul FC,33,Mexico,TRUE
+212246,Patrice EVRA,Defender,3,Manchester United FC,33,France,FALSE
+215471,Vangelis MORAS,Defender,5,Hellas Verona FC,32,Greece,FALSE
+274703,Agustin ORION,Goalkeeper,12,CA Boca Juniors,32,Argentina,TRUE
+214404,BETO,Goalkeeper,22,Sevilla FC,32,Portugal,FALSE
+181951,Brad DAVIS,Midfielder,14,Houston Dynamo,32,USA,TRUE
+214874,Patrick PEMBERTON,Goalkeeper,18,LD Alajuelense,32,Costa Rica,TRUE
+207809,MAXWELL,Defender,14,Paris Saint-Germain FC,32,Brazil,FALSE
+210702,Danijel PRANJIC,Defender,3,Panathinaikos FC,32,Croatia,FALSE
+286238,Egidio AREVALO,Midfielder,17,CA Monarcas Morelia,32,Uruguay,FALSE
+309426,VICTOR,Goalkeeper,22,Atletico Mineiro,31,Brazil,TRUE
+253999,Ben FOSTER,Goalkeeper,13,West Bromwich Albion FC,31,England,TRUE
+184320,JEFFERSON,Goalkeeper,1,Botafogo FR,31,Brazil,TRUE
+175546,Alfredo TALAVERA,Goalkeeper,12,Deportivo Toluca FC,31,Mexico,TRUE
+175413,Pepe REINA,Goalkeeper,23,SSC Napoli,31,Spain,FALSE
+299066,EDUARDO,Goalkeeper,1,Sporting Braga,31,Portugal,TRUE
+175629,Martin SILVA,Goalkeeper,23,CR Vasco da Gama,31,Uruguay,FALSE
+216990,Charles ITANDJE,Goalkeeper,16,Konyaspor,31,Cameroon,FALSE
+202650,Claudio BRAVO,Goalkeeper,1,Real Sociedad,31,Chile,FALSE
+198117,Eiji KAWASHIMA,Goalkeeper,1,Standard Liege,31,Japan,FALSE
+189300,Vincent ENYEAMA,Goalkeeper,1,Lille OSC,31,Nigeria,FALSE
+196620,Steve VON BERGEN,Defender,5,BSC Young Boys,31,Switzerland,TRUE
+254141,Bacary SAGNA,Defender,15,Arsenal FC,31,France,FALSE
+275793,Oscar BAGUI,Defender,18,CS Emelec,31,Ecuador,TRUE
+196633,Diego BENAGLIO,Goalkeeper,1,VfL Wolfsburg,30,Switzerland,FALSE
+306144,Mariano ANDUJAR,Goalkeeper,21,Calcio Catania,30,Argentina,FALSE
+349832,Jose Maria BASANTA,Defender,23,CF Monterrey,30,Argentina,FALSE
+184856,Austine EJIDE,Goalkeeper,16,Hapoel Be'er Sheva FC,30,Nigeria,FALSE
+299904,Mensur MUJDZA,Midfielder,13,SC Freiburg,30,Bosnia & Herzegovina,FALSE
+254089,Michel VORM,Goalkeeper,22,Swansea City AFC,30,Netherlands,FALSE
+354873,Mehdi MOSTEFA,Midfielder,22,AC Ajaccio,30,Algeria,FALSE
+216432,Yury ZHIRKOV,Forward,18,FC Dynamo Moscow,30,Russia,TRUE
+306180,Benoit ASSOU EKOTTO,Defender,2,Queens Park Rangers FC,30,Cameroon,FALSE
+329737,Ghasem HADADIFAR,Midfielder,11,Zob Ahan Isfahan FC,30,Iran,TRUE
+254091,Paul VERHAEGH,Defender,12,FC Augsburg,30,Netherlands,FALSE
+358893,Andrey ESHCHENKO,Defender,22,FC Anzhi Makhachkala,30,Russia,TRUE
+216438,Igor DENISOV,Midfielder,7,FC Dynamo Moscow,30,Russia,TRUE
+317072,Henri BEDIMO,Defender,12,Olympique Lyonnais,30,Cameroon,FALSE
+321682,Medhi LACEN,Midfielder,8,Getafe CF,30,Algeria,FALSE
+202280,Luis SARITAMA,Midfielder,19,Barcelona SC,30,Ecuador,TRUE
+306206,Khosro HEYDARI,Forward,2,Esteghlal Tehran FC,30,Iran,TRUE
+214571,Rio MAVUBA,Midfielder,12,Lille OSC,30,France,TRUE
+214407,JOAO PEREIRA,Defender,21,Valencia CF,30,Portugal,FALSE
+276139,Brad GUZAN,Goalkeeper,12,Aston Villa FC,29,USA,FALSE
+357990,Gordon SCHILDENFELD,Defender,13,Panathinaikos FC,29,Croatia,FALSE
+299887,Danijel SUBASIC,Goalkeeper,23,AS Monaco,29,Croatia,FALSE
+198546,JUNG Sungryong,Goalkeeper,1,Suwon Bluewings FC,29,South Korea,TRUE
+297230,Osman CHAVEZ,Defender,2,Qingdao Jonoon FC,29,Honduras,FALSE
+182479,Chigozie AGBIM,Goalkeeper,21,Enugu Rangers FC,29,Nigeria,TRUE
+305708,Mohamed ZEMMAMOUCHE,Goalkeeper,16,USM Alger,29,Algeria,TRUE
+378836,Marco PAROLO,Midfielder,18,Parma FC,29,Italy,TRUE
+182620,Alex WILKINSON,Defender,22,Jeonbuk Hyundai Motors FC,29,Australia,FALSE
+229450,Gabriel ACHILIER,Defender,21,CS Emelec,29,Ecuador,TRUE
+356166,Cedric SI MOHAMMED,Goalkeeper,1,CS Constantine,29,Algeria,TRUE
+298676,HA Daesung,Midfielder,8,Beijing Guoan,29,South Korea,FALSE
+299064,RUBEN AMORIM,Midfielder,20,SL Benfica,29,Portugal,TRUE
+376071,Fatawu DAUDA,Goalkeeper,16,Orlando Pirates,29,Ghana,FALSE
+323339,Djamel MESBAH,Defender,6,AS Livorno,29,Algeria,FALSE
+367555,Die SEREY,Midfielder,20,FC Basel,29,Ivory Coast,FALSE
+276132,Jorge FUCILE,Defender,4,FC Porto,29,Uruguay,FALSE
+182379,Pablo ZABALETA,Defender,4,Manchester City FC,29,Argentina,FALSE
+228912,Manuel NEUER,Goalkeeper,1,FC Bayern Muenchen,28,Germany,TRUE
+229498,Fernando MUSLERA,Goalkeeper,1,Galatasaray SK,28,Uruguay,FALSE
+228328,Orestis KARNEZIS,Goalkeeper,1,Granada CF,28,Greece,FALSE
+302630,Maximo BANGUERA,Goalkeeper,1,Barcelona SC,28,Ecuador,TRUE
+233333,Gabriel PALETTA,Defender,20,Parma FC,28,Italy,TRUE
+216820,Raul ALBIOL,Defender,2,SSC Napoli,28,Spain,FALSE
+323326,Rais MBOLHI,Goalkeeper,23,CSKA Sofia,28,Algeria,FALSE
+215017,Igor AKINFEEV,Goalkeeper,1,CSKA Moscow,28,Russia,TRUE
+358012,Laurent KOSCIELNY,Defender,21,Arsenal FC,28,France,FALSE
+215285,Guillermo OCHOA,Goalkeeper,13,AC Ajaccio,28,Mexico,FALSE
+214581,Shusaku NISHIKAWA,Goalkeeper,12,Urawa Red Diamonds,28,Japan,TRUE
+301165,Oscar GRANADOS,Midfielder,13,CS Herediano,28,Costa Rica,TRUE
+200259,Dany NOUNKEU,Defender,5,Besiktas JK,28,Cameroon,FALSE
+280487,Carlos SANCHEZ,Midfielder,6,Elche CF,28,Columbia,FALSE
+359997,Avdija VRSAJEVIC,Midfielder,2,HNK Hajduk Split,28,Bosnia & Herzegovina,FALSE
+199160,Daniel CAMBRONERO,Goalkeeper,23,CS Herediano,28,Costa Rica,TRUE
+290822,Laurent CIMAN,Defender,23,Standard Liege,28,Belgium,TRUE
+278126,KIM Changsoo,Defender,2,Kashiwa Reysol,28,South Korea,FALSE
+349582,Francisco SILVA,Midfielder,5,CA Osasuna,28,Chile,FALSE
+201001,Fernando GAGO,Midfielder,5,CA Boca Juniors,28,Argentina,TRUE
+200133,Lucas BIGLIA,Midfielder,6,SS Lazio,28,Argentina,FALSE
+268911,Toshihiro AOYAMA,Midfielder,14,Sanfrecce Hiroshima,28,Japan,TRUE
+200205,VIEIRINHA,Forward,10,VfL Wolfsburg,28,Portugal,FALSE
+303419,Alexander DOMINGUEZ,Goalkeeper,22,LDU Quito,27,Ecuador,TRUE
+266783,Sergio ROMERO,Goalkeeper,1,AS Monaco,27,Argentina,FALSE
+299956,Joe HART,Goalkeeper,1,Manchester City FC,27,England,TRUE
+360111,Panagiotis GLYKOS,Goalkeeper,12,PAOK FC,27,Greece,TRUE
+298655,Salvatore SIRIGU,Goalkeeper,12,Paris Saint-Germain FC,27,Italy,FALSE
+271043,DAVID LUIZ,Defender,4,Chelsea FC,27,Brazil,FALSE
+359448,Stephane RUFFIER,Goalkeeper,16,AS Saint-Etienne,27,France,TRUE
+297105,Hugo LLORIS,Goalkeeper,1,Tottenham Hotspur FC,27,France,FALSE
+200209,Cristian ZAPATA,Defender,2,AC Milan,27,Columbia,FALSE
+200130,Ezequiel GARAY,Defender,2,SL Benfica,27,Argentina,FALSE
+291332,Ousmane DIARRASSOUBA,Defender,2,Caykur Rizespor,27,Ivory Coast,FALSE
+298613,HENRIQUE,Defender,15,SSC Napoli,27,Brazil,FALSE
+369983,Aleksei KOZLOV,Defender,2,FC Dynamo Moscow,27,Russia,TRUE
+358046,Vladimir GRANAT,Defender,13,FC Dynamo Moscow,27,Russia,TRUE
+199175,Keylor NAVAS,Goalkeeper,1,Levante UD,27,Costa Rica,FALSE
+367433,Matt BESLER,Defender,5,Sporting Kansas City,27,USA,TRUE
+329745,Hossein MAHINI,Defender,13,Perspolis FC,27,Iran,TRUE
+363578,LEE Yong,Defender,12,Ulsan Hyundai FC,27,South Korea,TRUE
+267344,Mehrdad POOLADI,Defender,23,Perspolis FC,27,Iran,TRUE
+298662,Antonio CANDREVA,Midfielder,6,SS Lazio,27,Italy,TRUE
+296312,Edder DELGADO,Midfielder,12,Real Espana,27,Honduras,TRUE
+321731,Ioannis MANIATIS,Midfielder,2,Olympiacos Piraeus FC,27,Greece,TRUE
+359375,SAMMIR,Midfielder,19,Getafe CF,27,Croatia,FALSE
+379889,Steven BEITASHOUR,Defender,20,Vancouver Whitecaps FC,27,Iran,FALSE
+240718,Constant DJAKPA,Defender,18,Eintracht Frankfurt,27,Ivory Coast,FALSE
+268411,PARK Jooho,Defender,22,FSV Mainz 05,27,South Korea,FALSE
+294626,Harrison AFFUL,Defender,23,Esperance Sportive de Tunis,27,Ghana,FALSE
+362881,Fraser FORSTER,Goalkeeper,22,Celtic FC,26,England,FALSE
+230121,Asmir BEGOVIC,Goalkeeper,1,Stoke City FC,26,Bosnia & Herzegovina,FALSE
+346763,Alireza HAGHIGHI,Goalkeeper,12,Sporting Covilha,26,Iran,FALSE
+298738,Simon MIGNOLET,Goalkeeper,12,Liverpool FC,26,Belgium,FALSE
+379888,Daniel DAVARI,Goalkeeper,22,Eintracht Braunschweig,26,Iran,FALSE
+232760,Tim KRUL,Goalkeeper,23,Newcastle United FC,26,Netherlands,FALSE
+353237,Adam KWARASEY,Goalkeeper,12,Stromsgodset IF,26,Ghana,FALSE
+359436,EDER,Forward,11,Sporting Braga,26,Portugal,TRUE
+269768,RUI PATRICIO,Goalkeeper,12,Sporting CP,26,Portugal,TRUE
+349631,Ricardo ALVAREZ,Midfielder,19,FC Internazionale,26,Argentina,FALSE
+354883,Liassine CADAMURO,Defender,17,RCD Mallorca,26,Algeria,FALSE
+299090,Sokratis PAPASTATHOPOULOS,Defender,19,Borussia Dortmund,26,Greece,FALSE
+359428,LUIS NETO,Defender,14,FC Zenit St. Petersburg,26,Portugal,FALSE
+360109,Panagiotis KONE,Midfielder,8,Bologna FC,26,Greece,FALSE
+319298,Georgios TZAVELAS,Defender,3,PAOK FC,26,Greece,TRUE
+200261,Alexandre SONG,Midfielder,6,FC Barcelona,26,Cameroon,FALSE
+228624,Cristopher TOSELLI,Goalkeeper,12,CD Universidad Catolica,26,Chile,TRUE
+370062,Ivan FRANJIC,Defender,2,Brisbane Roar FC,26,Australia,TRUE
+349576,Juan PAREDES,Defender,4,Barcelona SC,26,Ecuador,TRUE
+361222,Adam LALLANA,Midfielder,20,Southampton FC,26,England,TRUE
+228942,Alessio CERCI,Forward,11,Torino FC,26,Italy,TRUE
+298677,Jonathan DE GUZMAN,Midfielder,8,Swansea City AFC,26,Netherlands,FALSE
+355023,Allan NYOM,Defender,22,Granada CF,26,Cameroon,FALSE
+379264,Jose VAZQUEZ,Midfielder,23,Club Leon,26,Mexico,TRUE
+234405,Omar GONZALEZ,Defender,3,Los Angeles Galaxy,25,USA,TRUE
+299442,Jerome BOATENG,Defender,20,FC Bayern Muenchen,25,Germany,TRUE
+359993,Toni SUNJIC,Defender,15,FC Zorya Lugansk,25,Bosnia & Herzegovina,FALSE
+379985,Andrey SEMENOV,Defender,5,FC Terek Grozny,25,Russia,TRUE
+356933,Mitch LANGERAK,Goalkeeper,12,Borussia Dortmund,25,Australia,FALSE
+353379,Reza HAGHIGHI,Midfielder,8,Perspolis FC,25,Iran,TRUE
+362649,Andreas SAMARIS,Midfielder,22,Olympiacos Piraeus FC,25,Greece,TRUE
+270714,Javi MARTINEZ,Midfielder,4,FC Bayern Muenchen,25,Spain,FALSE
+367558,Sylvain GBOHOUO,Goalkeeper,16,Sewe Sport,25,Ivory Coast,TRUE
+303034,Sergio BUSQUETS,Midfielder,16,FC Barcelona,25,Spain,TRUE
+229051,Matthew SPIRANOVIC,Defender,6,Western Sydney Wanderers FC,25,Australia,TRUE
+349568,Adrian BONE,Goalkeeper,12,CD El Nacional,25,Ecuador,TRUE
+367920,Diego COSTA,Forward,19,Atletico Madrid,25,Spain,TRUE
+321734,Shuichi GONDA,Goalkeeper,23,FC Tokyo,25,Japan,TRUE
+302381,Ron-Robert ZIELER,Goalkeeper,12,Hannover 96,25,Germany,TRUE
+358738,Jasper CILLESSEN,Goalkeeper,1,AFC Ajax,25,Netherlands,TRUE
+358694,Kevin GROSSKREUTZ,Defender,2,Borussia Dortmund,25,Germany,TRUE
+312987,Oscar DUARTE,Defender,6,Club Brugge KV,25,Costa Rica,FALSE
+228686,David OSPINA,Goalkeeper,1,OGC Nice,25,Columbia,FALSE
+319460,Yann SOMMER,Goalkeeper,12,FC Basel,25,Switzerland,TRUE
+295149,James HOLLAND,Midfielder,16,FK Austria Wien,25,Australia,FALSE
+291398,PARK Jongwoo,Midfielder,15,Guangzhou R&F FC,25,South Korea,FALSE
+332293,Giovanni SIO,Forward,21,FC Basel,25,Ivory Coast,FALSE
+228691,Alexander MEJIA,Midfielder,15,Atletico Nacional,25,Columbia,TRUE
+358881,Alexey IONOV,Forward,21,FC Dynamo Moscow,25,Russia,TRUE
+350129,Miguel PONCE,Defender,16,Deportivo Toluca FC,25,Mexico,TRUE
+312234,Oliver BOZANIC,Midfielder,13,FC Luzern,25,Australia,FALSE
+356748,Chris SMALLING,Defender,12,Manchester United FC,24,England,TRUE
+318688,Marcos ROJO,Defender,16,Sporting CP,24,Argentina,FALSE
+311850,Mohammed RABIU,Midfielder,17,Kuban Krasnodar,24,Ghana,FALSE
+319436,Leroy FER,Midfielder,18,Norwich City FC,24,Netherlands,FALSE
+317056,Moussa SISSOKO,Midfielder,18,Newcastle United FC,24,France,FALSE
+356189,Jordan HENDERSON,Midfielder,14,Liverpool FC,24,England,TRUE
+319428,Daryl JANMAAT,Defender,7,Feyenoord Rotterdam,24,Netherlands,TRUE
+367343,Yury LODYGIN,Goalkeeper,12,FC Zenit St. Petersburg,24,Russia,TRUE
+359995,Ognjen VRANJES,Defender,6,Elazigspor,24,Bosnia & Herzegovina,FALSE
+365556,Timmy CHANDLER,Defender,21,1. FC Nuernberg,24,USA,FALSE
+306410,Ryan McGOWAN,Defender,19,Shandong Luneng Taishan FC,24,Australia,FALSE
+290931,Nicolas NKOULOU,Defender,3,Olympique Marseille,24,Cameroon,FALSE
+350003,Hiroki SAKAI,Defender,21,Hannover 96,24,Japan,FALSE
+306780,Ciro IMMOBILE,Forward,17,Torino FC,24,Italy,TRUE
+374529,Anel HADZIC,Midfielder,21,SK Sturm Graz,24,Bosnia & Herzegovina,FALSE
+274329,HAN Kookyoung,Midfielder,14,Kashiwa Reysol,24,South Korea,FALSE
+274283,YUN Sukyoung,Defender,3,Queens Park Rangers FC,24,South Korea,FALSE
+356518,HWANG Seokho,Defender,6,Sanfrecce Hiroshima,24,South Korea,FALSE
+288824,Matteo DARMIAN,Defender,4,Torino FC,24,Italy,TRUE
+329092,Hector HERRERA,Midfielder,6,FC Porto,24,Mexico,FALSE
+319432,Daley BLIND,Defender,5,AFC Ajax,24,Netherlands,TRUE
+370438,Sammy NDJOCK,Goalkeeper,23,Fethiyespor,24,Cameroon,FALSE
+270948,Cesar AZPILICUETA,Midfielder,22,Chelsea FC,24,Spain,FALSE
+323574,Stephen ADAMS,Goalkeeper,1,Aduana Stars,24,Ghana,TRUE
+365747,Edin VISCA,Forward,19,Istanbul BBSK,24,Bosnia & Herzegovina,FALSE
+366309,Yacine BRAHIMI,Midfielder,11,Granada CF,24,Algeria,FALSE
+350124,Javier AQUINO,Midfielder,20,Villarreal CF,24,Mexico,FALSE
+305382,Sebastian COATES,Defender,19,Club Nacional de Football,23,Uruguay,TRUE
+319413,Panagiotis TACHTSIDIS,Midfielder,23,Torino FC,23,Greece,FALSE
+380069,Christoph KRAMER,Midfielder,23,Borussia Moenchengladbach,23,Germany,TRUE
+319340,Eliaquim MANGALA,Defender,13,FC Porto,23,France,FALSE
+274281,KIM Seunggyu,Goalkeeper,21,Ulsan Hyundai FC,23,South Korea,TRUE
+368009,Ebenezer ODUNLAMI,Defender,12,Sunshine Stars FC,23,Nigeria,TRUE
+336434,Clement GRENIER,Midfielder,22,Olympique Lyonnais,23,France,TRUE
+323556,Konstantinos MANOLAS,Defender,4,Olympiacos Piraeus FC,23,Greece,TRUE
+370523,Mathis BOLLY,Midfielder,6,Fortuna Duesseldorf,23,Ivory Coast,FALSE
+375453,ANDRE ALMEIDA,Defender,19,SL Benfica,23,Portugal,TRUE
+356710,Ruben GABRIEL,Midfielder,4,KV Waasland-Beveren,23,Nigeria,FALSE
+364088,Faouzi GHOULAM,Defender,3,SSC Napoli,23,Algeria,FALSE
+356712,Juwon OSHANIWA,Defender,13,FC Ashdod,23,Nigeria,FALSE
+312116,Gaston RAMIREZ,Midfielder,18,Southampton FC,23,Uruguay,FALSE
+358869,Georgy SHCHENNIKOV,Defender,3,CSKA Moscow,23,Russia,TRUE
+379942,Riyad MAHREZ,Forward,21,Leicester City FC,23,Algeria,FALSE
+321736,Gotoku SAKAI,Defender,3,VfB Stuttgart,23,Japan,FALSE
+379974,Waylon FRANCIS,Defender,12,Columbus Crew,23,Costa Rica,FALSE
+356466,Hotaru YAMAGUCHI,Midfielder,16,Cerezo Osaka,23,Japan,TRUE
+371042,Isaac BRIZUELA,Midfielder,17,Deportivo Toluca FC,23,Mexico,TRUE
+269071,Daniel OPARE,Defender,4,Standard Liege,23,Ghana,FALSE
+336869,Alex IBARRA,Midfielder,5,Vitesse Arnheim,23,Ecuador,FALSE
+270400,Luis GARRIDO,Midfielder,19,CD Olimpia,23,Honduras,TRUE
+358106,Thibaut COURTOIS,Goalkeeper,1,Atletico Madrid,22,Belgium,FALSE
+320375,Joel MATIP,Midfielder,21,FC Schalke 04,22,Cameroon,FALSE
+313021,Stefan DE VRIJ,Defender,3,Feyenoord Rotterdam,22,Netherlands,TRUE
+379808,Tino Sven SUSIC,Midfielder,14,HNK Hajduk Split,22,Bosnia & Herzegovina,FALSE
+376349,WILLIAM,Midfielder,6,Sporting CP,22,Portugal,TRUE
+358009,Phil JONES,Defender,16,Manchester United FC,22,England,TRUE
+376285,Aissa MANDI,Defender,20,Stade de Reims,22,Algeria,FALSE
+358885,Maksim KANUNNIKOV,Forward,6,FK Amkar Perm,22,Russia,TRUE
+336485,Sime VRSALJKO,Defender,2,Genoa CFC,22,Croatia,FALSE
+379952,Erik DURM,Defender,15,Borussia Dortmund,22,Germany,TRUE
+313051,Joel VELTMAN,Defender,13,AFC Ajax,22,Netherlands,TRUE
+339117,Maty RYAN,Goalkeeper,1,Club Brugge KV,22,Australia,FALSE
+379164,Ben HALLORAN,Forward,10,Fortuna Duesseldorf,22,Australia,FALSE
+306364,Jason DAVIDSON,Defender,3,SC Heracles Almelo,22,Australia,FALSE
+346731,Bakhtiar RAHMANI,Midfielder,18,Foolad Khuzestan FC,22,Iran,TRUE
+307541,Yeltsin TEJEDA,Midfielder,17,Deportivo Saprissa,22,Costa Rica,TRUE
+355859,Loic FEUDJOU,Goalkeeper,1,Coton Sport FC,22,Cameroon,TRUE
+313410,KOKE,Midfielder,17,Atletico Madrid,22,Spain,TRUE
+330565,Jack WILSHERE,Midfielder,7,Arsenal FC,22,England,TRUE
+315614,Santiago ARIAS,Defender,4,PSV Eindhoven,22,Columbia,FALSE
+358732,Jordy CLASIE,Midfielder,16,Feyenoord Rotterdam,22,Netherlands,TRUE
+380004,Sayouba MANDE,Goalkeeper,23,Stabaek IF,21,Ivory Coast,FALSE
+373555,John BROOKS,Defender,6,Hertha BSC,21,USA,FALSE
+359440,Raphael VARANE,Defender,4,Real Madrid CF,21,France,FALSE
+308082,Diego REYES,Defender,5,FC Porto,21,Mexico,FALSE
+369546,Eder BALANTA,Defender,16,CA River Plate,21,Columbia,FALSE
+313559,Ricardo RODRIGUEZ,Defender,13,VfL Wolfsburg,21,Switzerland,FALSE
+376360,Ismael DIOMANDE,Midfielder,14,AS Saint-Etienne,21,Ivory Coast,FALSE
+367557,Jean Daniel AKPA,Defender,7,Toulouse FC,21,Ivory Coast,FALSE
+359223,Mattia DE SCIGLIO,Defender,2,AC Milan,21,Italy,TRUE
+358101,Muhamed BESIC,Midfielder,7,Ferencvarosi TC,21,Bosnia & Herzegovina,FALSE
+370522,Serge AURIER,Defender,17,Toulouse FC,21,Ivory Coast,FALSE
+339116,Massimo LUONGO,Midfielder,21,Swindon Town FC,21,Australia,FALSE
+380060,Cedric DJEUGOUE,Defender,4,Coton Sport FC,21,Cameroon,TRUE
+368708,RAFA,Forward,15,Sporting Braga,21,Portugal,TRUE
+315436,Ramon AZEEZ,Midfielder,15,UD Almeria,21,Nigeria,FALSE
+356704,Juan QUINTERO,Midfielder,20,FC Porto,21,Columbia,FALSE
+312014,Michael BABATUNDE,Forward,18,FC Volyn Lutsk,21,Nigeria,FALSE
+336791,Edgar SALLI,Midfielder,20,RC Lens,21,Cameroon,FALSE
+370469,Rashid SUMAILA,Defender,15,Mamelodi Sundowns FC,21,Ghana,FALSE
+362645,Stefanos KAPINO,Goalkeeper,13,Panathinaikos FC,20,Greece,TRUE
+379736,Matthias GINTER,Defender,3,SC Freiburg,20,Germany,TRUE
+369392,Ross BARKLEY,Midfielder,21,Everton FC,20,England,TRUE
+315424,Kenneth OMERUO,Defender,22,Middlesbrough FC,20,Nigeria,FALSE
+376230,Sead KOLASINAC,Defender,5,FC Schalke 04,20,Bosnia & Herzegovina,FALSE
+336085,Terence KONGOLO,Defender,14,Feyenoord Rotterdam,20,Netherlands,TRUE
+339987,Mateo KOVACIC,Midfielder,20,FC Internazionale,20,Croatia,FALSE
+368860,Lucas DIGNE,Defender,17,Paris Saint-Germain FC,20,France,TRUE
+336098,Memphis DEPAY,Forward,21,PSV Eindhoven,20,Netherlands,TRUE
+368973,DeAndre YEDLIN,Defender,2,Seattle Sounders FC,20,USA,TRUE
+379939,Nabil BENTALEB,Midfielder,14,Tottenham Hotspur FC,19,Algeria,FALSE
+379911,Divock ORIGI,Forward,17,Lille OSC,19,Belgium,FALSE
+368655,Jose GIMENEZ,Defender,13,Atletico Madrid,19,Uruguay,FALSE
+369094,Julian GREEN,Midfielder,16,FC Bayern Muenchen,19,USA,FALSE
+332827,Carlos GRUEZO,Midfielder,23,VfB Stuttgart,19,Ecuador,FALSE
+336043,Raheem STERLING,Midfielder,19,Liverpool FC,19,England,TRUE
+336450,Luke SHAW,Defender,23,Southampton FC,18,England,TRUE
+319482,Rodrigo MUNOZ,Goalkeeper,12,Club Libertad,32,Uruguay,FALSE
+367415,Jasmin FEJZIC,Goalkeeper,12,VfR Aalen,28,Bosnia & Herzegovina,FALSE
+380663,Sammy BOSSUT,Goalkeeper,13,SV Zulte Waregem,28,Belgium,TRUE
+306818,LEE Bumyoung,Goalkeeper,23,Busan IPark FC,25,South Korea,TRUE
+360642,Camilo VARGAS,Goalkeeper,12,Independiente Santa Fe,25,Columbia,TRUE
+269859,David DE GEA,Goalkeeper,12,Manchester United FC,23,Spain,FALSE
+356676,Roman BUERKI,Goalkeeper,21,Grasshopper Club,23,Switzerland,TRUE
+369026,Oliver ZELENIKA,Goalkeeper,12,NK Lokomotiva Zagreb,21,Croatia,TRUE
+309420,Mattia PERIN,Goalkeeper,13,Genoa CFC,21,Italy,TRUE
+379165,Bailey WRIGHT,Defender,8,Preston North End FC,21,Australia,FALSE
+369050,Ivan MOCINIC,Midfielder,15,HNK Rijeka,21,Croatia,TRUE
+380000,Marcelo BROZOVIC,Midfielder,14,GNK Dinamo Zagreb,21,Croatia,TRUE
+380009,Luis LOPEZ,Goalkeeper,1,Real Espana,20,Honduras,TRUE
+379910,Adnan JANUZAJ,Midfielder,20,Manchester United FC,19,Belgium,FALSE
