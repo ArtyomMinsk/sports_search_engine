@@ -78,13 +78,13 @@ def select_from_database():
         print(*results, sep = "\n")
 
     elif pick == "c":
-        cur.execute("SELECT * FROM players3 WHERE captain = %s", ("%" + input('Type True/False if you are looking for captains: ') + "%",))
+        cur.execute("SELECT * FROM players3 WHERE captain = %s", (input('Type True/False if you are looking for captains: '),))
         results = cur.fetchall()
         # conn.commit()
         print(*results, sep = "\n")
 
     elif pick == "t":
-        cur.execute("SELECT * FROM players3 WHERE club = %s", ("%" + input('Type the club you\'re looking for: ') + "%",))
+        cur.execute("SELECT * FROM players3 WHERE club = %s", (input('Type the club you\'re looking for: '),))
         results = cur.fetchall()
         # conn.commit()
         print(*results, sep = "\n")
